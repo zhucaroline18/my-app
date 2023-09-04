@@ -22,7 +22,7 @@ With my younger sister starting to learn coding, I thought this would be a good 
 
 ### Process 
 This project took 2-3 weeks to implement. The relative process is as follows: 
-- 1 week conceiving project
+- 1 week conceiving project, gathering materials and ideas for how I wanted to have the sorting visualized, as well as researching means of animation
 - 1-2 days to implement each sorting algorithm and figuring out animation
 - 1 week for finishing touches such as speed, color palette, and animation design
 
